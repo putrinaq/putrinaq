@@ -20,7 +20,7 @@ With a strong foundation in IT infrastructure, network management, and troublesh
 Thanks for stopping by—let’s connect, create, and inspire!
 
 ### My Skills
-- 💻 Programming: HTML, CSS, JavaScript, C, C++, Python 
+- 💻 Programming: HTML, CSS, JavaScript, C, C++, Python, JAVA
 - 🎨 Design: Figma, Photoshop, Illustrator 
 - 🌐 Web Frameworks: Bootstrap
 - 📖 Currently Learning: Dutch, Python, Typescript
