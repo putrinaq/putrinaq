@@ -49,9 +49,10 @@ Parfum Enchanté is an online store I developed to offer a curated selection of 
 
 # My Coding Journey 
 <div style="display: flex; flex-direction: row;">
-   ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=putrinaq&theme=tokyonight)
-   ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=putrinaq&theme=tokyonight)
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=putrinaq&theme=tokyonight" alt="Profile details" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=putrinaq&theme=tokyonight" alt="Top languages by commit" />
 </div>
+
 
 
 
