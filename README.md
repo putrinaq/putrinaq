@@ -8,15 +8,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=naqibahbalqis-unimas&color=blue)
 
 With a strong foundation in IT infrastructure, network management, and troubleshooting, I’m driven by a passion for exploring new technology and pushing the boundaries of design. I'm skilled in programming, UI/UX design, and graphic design, always looking to blend technical precision with creative insight.
-
-🎶 Music Lover: My playlist spans RnB, rap, K-pop, and recently, a bit of Nederpop.
-
-🌐 Languages: Learning Dutch alongside the two languages I already speak—language learning adds a unique flavor to my journey in tech.
-
-🌏 Proudly Malaysian, with mixed Chinese heritage, I enjoy bringing diverse cultural insights into my work.
-
-🎮 Gaming Enthusiast: Outside of tech, I dive into Sims and Minecraft, my all-time favorite games.
-
 Thanks for stopping by—let’s connect, create, and inspire!
 
 ### My Skills
