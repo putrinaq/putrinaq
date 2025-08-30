@@ -49,8 +49,8 @@ Parfum Enchanté is an online store I developed to offer a curated selection of 
 
 # My Coding Journey 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqibahbalqis-unimas&layout=compact&theme=radical" alt="Top Languages" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naqibahbalqis-unimas&theme=radical" alt="Profile Summary Card" />
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=naqibahbalqis-unimas&layout=compact&theme=radical" alt="Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=putrinaq&theme=tokyonight)" />
+    <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naqibahbalqis-unimas&theme=radical](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=putrinaq&theme=tokyonight)" alt="Profile Summary Card" />
 </div>
 
 
