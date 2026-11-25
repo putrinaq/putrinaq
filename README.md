@@ -1,58 +1,86 @@
-<p>
-  <img src="https://i.ibb.co/hKLrMsR/name.gif" alt="Header" width="1314" height="auto">
-</p>
+<img src="assets/banner.svg" width="100%" alt="Hi, I'm Putri! A pixel bunny hops through a garden at night.">
 
-# Hello! my name is Putri!
-💡 Creative Designer | Programmer | Software Engineering Student 
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=naqibahbalqis-unimas&color=blue)
+<img src="assets/divider.svg" width="100%" alt="">
 
-With a strong foundation in IT infrastructure, network management, and troubleshooting, I’m driven by a passion for exploring new technology and pushing the boundaries of design. I'm skilled in programming, UI/UX design, and graphic design, always looking to blend technical precision with creative insight.
-Thanks for stopping by—let’s connect, create, and inspire!
+## 🥕 things I've made
 
-### My Skills
-- 💻 Programming: HTML, CSS, JavaScript, C, C++, Python, JAVA
-- 🎨 Design: Figma, Photoshop, Illustrator 
-- 🌐 Web Frameworks: Bootstrap
-- 📖 Currently Learning: Dutch, Python, Typescript
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://putrinaqibah.com/case-studies/plant-check-iot-plant-monitor.html"><img src="assets/plantcheck.webp" width="100%" alt="PlantCheck prototype: sensors on a plant box, with the dashboard on a laptop and a phone"></a>
+<h3>🌱 PlantCheck</h3>
+<b>🥉 3rd place, AI Hacker Dorm</b><br>
+An AI bodyguard for crops. It names leaf diseases from one photo, forecasts risky air an hour ahead, and runs the ventilation and irrigation by itself. I led the dashboard and wrote most of the API.
+<br><br>
+<kbd>Flask</kbd> <kbd>ESP32</kbd> <kbd>predictive model</kbd><br><br>
+<a href="https://plantcheck.duckdns.org">live</a> · <a href="https://putrinaqibah.com/case-studies/plant-check-iot-plant-monitor.html">case study</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://halohaul.com"><img src="assets/halohaul.webp" width="100%" alt="HaloHaul home page: your personal buyer across China's platforms"></a>
+<h3>📦 HaloHaul</h3>
+<b>a personal buyer for Malaysian students</b><br>
+Send a link from a Chinese marketplace, see every fee before paying, pick it up on campus. All the money maths is integer-only, because floating-point sen are a horror story.
+<br><br>
+<kbd>Next.js</kbd> <kbd>TypeScript</kbd> <kbd>PostgreSQL</kbd> <kbd>Docker</kbd><br><br>
+<a href="https://halohaul.com">live</a> · <a href="https://github.com/putrinaq/HaloHaul">code</a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/putrinaq/nightly_ritual"><img src="assets/nightly-ritual.webp" width="100%" alt="Three screens of the Nightly Ritual app"></a>
+<h3>🌙 Nightly Ritual</h3>
+<b>a dreamy companion for moonlit evenings</b><br>
+Breathe, listen, cast your intentions, then seal the night. It follows the real moon phase, obviously.
+<br><br>
+<kbd>Flutter</kbd> <kbd>Firebase</kbd><br><br>
+<a href="https://github.com/putrinaq/nightly_ritual">code</a>
+</td>
+<td valign="top">
+<a href="https://putrinaqibah.com/case-studies/maia-ai-powered-elderly-health-management-app.html"><img src="assets/maia.webp" width="100%" alt="MAIA health app on a phone, with large colourful buttons"></a>
+<h3>💊 MAIA</h3>
+<b>healthcare that grandma can actually use</b><br>
+An AI health app prototype for elderly patients, their caregivers and their doctors. 300+ hours of UX research, high contrast, voice navigation.
+<br><br>
+<kbd>Figma</kbd> <kbd>UX research</kbd> <kbd>accessibility</kbd><br><br>
+<a href="https://putrinaqibah.com/case-studies/maia-ai-powered-elderly-health-management-app.html">case study</a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://putrinaqibah.com/case-studies/unimas-trace-career-platform.html"><img src="assets/trace.webp" width="100%" alt="TRACE 2025 career exhibition home page"></a>
+<h3>🎓 TRACE UNIMAS</h3>
+<b>the career fair site that outranked the official pages</b><br>
+Reached 1,000+ students and #1 on Google for "UNIMAS career fair". Built over two years, with employers like EY and Public Bank on board.
+<br><br>
+<kbd>JavaScript</kbd> <kbd>Firebase</kbd> <kbd>SEO</kbd><br><br>
+<a href="https://putrinaqibah.com/case-studies/unimas-trace-career-platform.html">case study</a> · <a href="https://github.com/putrinaq/trace">code</a>
+</td>
+<td valign="top">
+<a href="https://parfum-enchante.web.app"><img src="assets/parfum.webp" width="100%" alt="Parfum Enchanté home page: elegance in every drop"></a>
+<h3>🌸 Parfum Enchanté</h3>
+<b>RM200 in, RM500 profit out, 3 months</b><br>
+A student perfume shop I led with a team of six. AI did the product photos, we did the hustling, and the marketing budget was zero.
+<br><br>
+<kbd>JavaScript</kbd> <kbd>Bootstrap</kbd> <kbd>generative AI</kbd><br><br>
+<a href="https://parfum-enchante.web.app">live</a> · <a href="https://putrinaqibah.com/case-studies/parfum-enchante.html">case study</a> · <a href="https://github.com/putrinaq/parfum-enchante">code</a>
+</td>
+</tr>
+</table>
 
-# My Featured Project
-### TRACE UNIMAS: Talent Recruitment and Career Exhibition
-[![Website](https://img.shields.io/badge/website-live-brightgreen)](https://unimas-trace.com/)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<img src="assets/divider.svg" width="100%" alt="">
 
-I developed TRACE UNIMAS as an informational website to support the **Talent Recruitment and Career Exhibition** at UNIMAS. Designed as a central hub for event details and organizational information, it offers attendees and exhibitors easy access to schedules, speaker sessions, and event highlights. Built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**, this responsive website provides a smooth, user-friendly experience that ensures all participants have the information they need to engage fully in this career-focused exhibition.
-### My Portfolio Website: [putrinaqibah.com](https://putrinaqibah.com/)
+## 🎀 my toolbox
 
-[![Website](https://img.shields.io/badge/website-live-brightgreen)](https://putrinaqibah.com/)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+**build** &nbsp; <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>React</kbd> <kbd>PHP</kbd> <kbd>Java</kbd> <kbd>C</kbd> <kbd>C++</kbd> <kbd>C#</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Bootstrap</kbd> <kbd>Firebase</kbd>
 
-I created my portfolio website, [putrinaqibah.com](https://putrinaqibah.com/), as a dynamic showcase of my skills, projects, and professional journey. Designed to highlight my expertise in **web development, UI/UX, and IT**, the site features an elegant, responsive layout that provides visitors with easy access to my projects, technical skills, and personal background. Using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**, I built this portfolio to demonstrate both my technical proficiency and eye for design, creating a memorable experience that reflects my dedication to quality and innovation in tech.
+**design** &nbsp; <kbd>Figma</kbd> <kbd>Illustrator</kbd> <kbd>Photoshop</kbd> <kbd>Webflow</kbd> <kbd>UI/UX</kbd>
 
-### Parfum Enchanté: An Elegant Perfume Shopping Experience
-[![Website](https://img.shields.io/badge/website-live-brightgreen)](https://parfum-enchante.web.app/)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-7A1FA2?logo=openai&logoColor=white)
+**test + automate** &nbsp; <kbd>Playwright</kbd> <kbd>UAT</kbd> <kbd>Google Cloud</kbd> <kbd>Power Automate</kbd> <kbd>Power BI</kbd>
 
-Parfum Enchanté is an online store I developed to offer a curated selection of premium fragrances, providing a refined shopping experience for perfume enthusiasts. Built with **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **Generative AI** technologies, this responsive website highlights each fragrance’s unique allure while ensuring an intuitive, seamless interface for browsing and purchasing. Parfum Enchanté reflects my passion for entrepreneurship and my commitment to creating a visually engaging, user-friendly e-commerce platform.
+**fix** &nbsp; <kbd>networks</kbd> <kbd>computers</kbd> <kbd>IT support</kbd> <kbd>"it was working yesterday"</kbd>
 
+<img src="assets/divider.svg" width="100%" alt="">
 
-
-# My Coding Journey 
-<div style="display: flex; flex-direction: row;">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=putrinaq&theme=tokyonight" alt="Profile details" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=putrinaq&theme=tokyonight" alt="Top languages by commit" />
-</div>
-
-
-
-
+<div align="center">
